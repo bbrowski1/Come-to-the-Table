@@ -1,0 +1,522 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "prayer",
+      "number": 1,
+      "title": "Prayer",
+      "primaryPassage": "Matthew 6:5-13",
+      "secondaryPassages": [
+        "1 Thessalonians 5:16-18",
+        "Philippians 4:6-7"
+      ],
+      "icebreaker": "When load shedding hits at the worst possible time, what's the first thing you usually do or say?",
+      "questions": [
+        "What does Jesus teach us about the heart behind prayer, not just the words we use?",
+        "Why do you think Jesus tells us to pray \"in secret\"?",
+        "What role does prayer play in your daily rhythm right now?",
+        "What makes it hard to pray consistently in your context (work, taxi, family, load shedding)?",
+        "Who in your life needs you to pray for them this week?"
+      ]
+    },
+    {
+      "id": "holiness",
+      "number": 2,
+      "title": "Holiness",
+      "primaryPassage": "1 Peter 1:14-16",
+      "secondaryPassages": [
+        "Leviticus 11:44-45",
+        "Romans 12:1-2"
+      ],
+      "icebreaker": "What's one \"unwritten rule\" in your family or community that everyone just knows to follow?",
+      "questions": [
+        "What does it mean that God is holy, and why does that matter for how we live?",
+        "How is holiness different from just following rules?",
+        "Where do you feel the pull to \"conform to the pattern of this world\"?",
+        "What would it look like for your everyday life to be \"set apart\" this week?",
+        "How does the Holy Spirit help us grow in holiness rather than just trying harder?"
+      ]
+    },
+    {
+      "id": "identity-in-christ",
+      "number": 3,
+      "title": "Identity in Christ",
+      "primaryPassage": "2 Corinthians 5:17",
+      "secondaryPassages": [
+        "Ephesians 2:10",
+        "1 Peter 2:9-10"
+      ],
+      "icebreaker": "Growing up, what did people expect you to become - and is that who you are today?",
+      "questions": [
+        "According to these verses, what has changed about you since you became a follower of Jesus?",
+        "What labels (from family, culture, or past mistakes) do you still struggle to let go of?",
+        "What does it mean that you are \"God's handiwork, created for good works\"?",
+        "How would your week look different if you truly believed you were chosen and dearly loved?",
+        "Who around you needs to hear that their identity isn't defined by their past or circumstances?"
+      ]
+    },
+    {
+      "id": "holy-spirit",
+      "number": 4,
+      "title": "Holy Spirit",
+      "primaryPassage": "John 14:16-17, 26",
+      "secondaryPassages": [
+        "Acts 1:8",
+        "Galatians 5:22-23"
+      ],
+      "icebreaker": "Tell us about a time someone unexpected gave you exactly the help you needed.",
+      "questions": [
+        "What roles does Jesus say the Holy Spirit plays in our lives?",
+        "Which \"fruit of the Spirit\" do you most need to grow right now?",
+        "How have you experienced the Holy Spirit's presence or power this year?",
+        "What's the connection between the Holy Spirit and being God's witnesses?",
+        "What would change if we relied on the Spirit's power more than our own effort?"
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "number": 5,
+      "title": "Forgiveness",
+      "primaryPassage": "Matthew 18:21-22",
+      "secondaryPassages": [
+        "Colossians 3:13",
+        "Ephesians 4:31-32"
+      ],
+      "icebreaker": "Share a small annoyance from this week that you had to let go of quickly (a taxi driver, a colleague, a family member).",
+      "questions": [
+        "What does Jesus teach about the limits - or lack of limits - on forgiveness?",
+        "Why is forgiving others so closely tied to remembering what God has forgiven in us?",
+        "Is there someone you're finding it hard to forgive right now? (You don't have to name them.)",
+        "What's the difference between forgiving someone and trusting them again?",
+        "What's one step of forgiveness God might be asking of you this week?"
+      ]
+    },
+    {
+      "id": "mission",
+      "number": 6,
+      "title": "Mission",
+      "primaryPassage": "Matthew 28:18-20",
+      "secondaryPassages": [
+        "John 20:21",
+        "Acts 1:8"
+      ],
+      "icebreaker": "If you had to explain what a Table Group is to a stranger at a taxi rank in one sentence, what would you say?",
+      "questions": [
+        "What does Jesus actually send us to do?",
+        "Why do you think Jesus said, \"As the Father sent me, I am sending you\"?",
+        "Who are the people near you - your \"Jerusalem\" - who don't yet know Jesus?",
+        "What holds you back from talking about Jesus with others?",
+        "Who is one person you could intentionally build a friendship with this month, with mission in mind?"
+      ]
+    },
+    {
+      "id": "stewardship",
+      "number": 7,
+      "title": "Stewardship",
+      "primaryPassage": "Matthew 25:14-30",
+      "secondaryPassages": [
+        "1 Peter 4:10",
+        "Luke 16:10"
+      ],
+      "icebreaker": "What's something you own that you look after really carefully - and why?",
+      "questions": [
+        "What does this passage teach us about how God views the gifts, time, and money He's given us?",
+        "Why do you think the servant who buried his talent was punished, not just the one who achieved least?",
+        "What has God entrusted to you - skills, money, time, relationships - that you haven't fully used?",
+        "How do we balance being faithful with little and trusting God for more?",
+        "What's one practical way you could steward your resources better this week?"
+      ]
+    },
+    {
+      "id": "serving",
+      "number": 8,
+      "title": "Serving",
+      "primaryPassage": "John 13:12-17",
+      "secondaryPassages": [
+        "Galatians 5:13",
+        "Mark 10:45"
+      ],
+      "icebreaker": "Who is someone who served you without expecting anything back, and how did it make you feel?",
+      "questions": [
+        "Why did Jesus, being Lord, choose to wash His disciples' feet?",
+        "What's the difference between serving out of duty and serving out of love?",
+        "Where do you find it hardest to serve - at home, at work, or at church?",
+        "Who is easy for you to serve, and who is difficult?",
+        "What's one act of service you could do this week without being asked?"
+      ]
+    },
+    {
+      "id": "faith",
+      "number": 9,
+      "title": "Faith",
+      "primaryPassage": "Hebrews 11:1, 6",
+      "secondaryPassages": [
+        "Mark 9:23-24",
+        "James 2:14-17"
+      ],
+      "icebreaker": "Have you ever had to trust something you couldn't fully see, like getting into a taxi with no idea of the exact route? What was that like?",
+      "questions": [
+        "How does the Bible define faith?",
+        "What does the father's cry, \"I believe; help my unbelief!\" tell us about honest faith?",
+        "Why does James say faith without action is dead?",
+        "What's an area of life where your faith feels weak right now?",
+        "What's one step of faith God is inviting you to take this week?"
+      ]
+    },
+    {
+      "id": "grace",
+      "number": 10,
+      "title": "Grace",
+      "primaryPassage": "Ephesians 2:8-9",
+      "secondaryPassages": [
+        "Romans 5:8",
+        "Titus 2:11-12"
+      ],
+      "icebreaker": "Tell us about a time someone gave you a second chance you didn't deserve.",
+      "questions": [
+        "What's the difference between grace and simply \"being a nice person\"?",
+        "Why is it important that grace can't be earned by works?",
+        "Where in your life do you still try to \"earn\" God's approval?",
+        "How does understanding grace change the way we treat people who mess up?",
+        "Who in your life needs to experience grace from you this week?"
+      ]
+    },
+    {
+      "id": "love",
+      "number": 11,
+      "title": "Love",
+      "primaryPassage": "1 Corinthians 13:4-7",
+      "secondaryPassages": [
+        "John 13:34-35",
+        "1 John 4:19-21"
+      ],
+      "icebreaker": "What's a small way someone showed you love this week - a text, a plate of food, a lift somewhere?",
+      "questions": [
+        "Which description of love in this passage challenges you most?",
+        "Why does Jesus say our love for each other is the mark that we're His disciples?",
+        "Is it possible to say we love God but struggle to love people? Why or why not?",
+        "Who is someone difficult to love that God might be calling you to love anyway?",
+        "What's one practical way to show love in your home or community this week?"
+      ]
+    },
+    {
+      "id": "community-and-belonging",
+      "number": 12,
+      "title": "Community & Belonging (Ubuntu)",
+      "primaryPassage": "Acts 2:44-47",
+      "secondaryPassages": [
+        "Ecclesiastes 4:9-12",
+        "Romans 12:4-5"
+      ],
+      "icebreaker": "What does the phrase \"umuntu ngumuntu ngabantu / motho ke motho ka batho\" mean to you in your own life?",
+      "questions": [
+        "What did the early church's shared life together look like practically?",
+        "Why does God design us to need each other rather than go it alone?",
+        "Where do you feel most a sense of belonging right now - and where do you feel isolated?",
+        "How does this Table Group reflect (or not yet reflect) the community described in Acts 2?",
+        "Who could you invite deeper into community with you this week?"
+      ]
+    },
+    {
+      "id": "trust-in-god",
+      "number": 13,
+      "title": "Trust in God",
+      "primaryPassage": "Proverbs 3:5-6",
+      "secondaryPassages": [
+        "Psalm 56:3-4",
+        "Isaiah 41:10"
+      ],
+      "icebreaker": "What's something in life right now that feels completely out of your control?",
+      "questions": [
+        "What does it mean to trust God \"with all your heart\" rather than leaning on your own understanding?",
+        "When has fear tempted you to trust yourself more than God?",
+        "What promise from these verses do you need to hold onto this week?",
+        "What's a current situation where you're finding it hard to trust God's plan?",
+        "How can this group support you in trusting God through that?"
+      ]
+    },
+    {
+      "id": "hope-in-hard-times",
+      "number": 14,
+      "title": "Hope in Hard Times",
+      "primaryPassage": "Romans 5:3-5",
+      "secondaryPassages": [
+        "Romans 8:28",
+        "Lamentations 3:22-23"
+      ],
+      "icebreaker": "Think of a tough season you've come through - what, or who, kept you going?",
+      "questions": [
+        "How does Paul say suffering can actually produce hope?",
+        "What does it mean that God's mercies are \"new every morning\"?",
+        "Where do you need hope right now - personally, in your family, or in South Africa?",
+        "How is biblical hope different from just \"staying positive\"?",
+        "Who could you encourage this week with the hope you have in Christ?"
+      ]
+    },
+    {
+      "id": "generosity",
+      "number": 15,
+      "title": "Generosity",
+      "primaryPassage": "2 Corinthians 9:6-8",
+      "secondaryPassages": [
+        "Proverbs 11:24-25",
+        "Acts 20:35"
+      ],
+      "icebreaker": "Who's the most generous person you know, and what have you learned from them?",
+      "questions": [
+        "What does Paul mean by sowing \"generously\" versus \"sparingly\"?",
+        "Why does God love \"a cheerful giver\" rather than a reluctant one?",
+        "What holds people back from being generous - fear, habit, or not feeling like they have enough?",
+        "What has God given you that you could be more generous with - money, time, food, or a listening ear?",
+        "What's one generous act you could plan for this week?"
+      ]
+    },
+    {
+      "id": "family",
+      "number": 16,
+      "title": "Family",
+      "primaryPassage": "Joshua 24:15",
+      "secondaryPassages": [
+        "Ephesians 6:1-4",
+        "Psalm 127:3-5"
+      ],
+      "icebreaker": "What's a family tradition - a Sunday lunch, a braai, a song - that shaped who you are?",
+      "questions": [
+        "What does it mean for a household to \"serve the Lord\" together?",
+        "What pressures do families in South Africa face that make faithfulness hard?",
+        "How is God inviting you to lead or serve your family - however that looks for you - differently?",
+        "Where do you need healing or patience in a family relationship right now?",
+        "What's one way you could bless a family member this week?"
+      ]
+    },
+    {
+      "id": "work-and-purpose",
+      "number": 17,
+      "title": "Work & Purpose",
+      "primaryPassage": "Colossians 3:23-24",
+      "secondaryPassages": [
+        "Genesis 2:15",
+        "Proverbs 16:3"
+      ],
+      "icebreaker": "What was your very first job, and what did it teach you?",
+      "questions": [
+        "What does it mean to work \"for the Lord\" rather than for people?",
+        "How does knowing God gave Adam work before the Fall change how you see work?",
+        "Where do you struggle to see purpose in your daily work, studies, or the search for a job?",
+        "How can you bring integrity and excellence into your workplace, classroom, or home this week?",
+        "If you're unemployed or between jobs, how do these verses speak to you right now?"
+      ]
+    },
+    {
+      "id": "justice-and-mercy",
+      "number": 18,
+      "title": "Justice & Mercy",
+      "primaryPassage": "Micah 6:8",
+      "secondaryPassages": [
+        "Isaiah 1:17",
+        "Amos 5:24"
+      ],
+      "icebreaker": "Where in your community do you see something that clearly isn't right or fair?",
+      "questions": [
+        "What three things does Micah say the Lord requires of us?",
+        "Why do you think justice and mercy are held together, not separated?",
+        "Where do you see injustice around you - at school, work, or in your neighbourhood?",
+        "What's one practical way ordinary people can \"act justly\" in daily life?",
+        "Who is someone vulnerable you could stand up for or help this week?"
+      ]
+    },
+    {
+      "id": "humility",
+      "number": 19,
+      "title": "Humility",
+      "primaryPassage": "Philippians 2:3-8",
+      "secondaryPassages": [
+        "James 4:6, 10",
+        "Micah 6:8"
+      ],
+      "icebreaker": "Who's someone you know who is genuinely humble - what makes them stand out?",
+      "questions": [
+        "What example of humility does Jesus give us in Philippians 2?",
+        "Why does God say He opposes the proud but gives grace to the humble?",
+        "Where does pride tend to show up in your own life - comparison, needing to be right, image?",
+        "What would it look like to \"value others above yourself\" this week?",
+        "Is there someone you need to apologise to or defer to in humility?"
+      ]
+    },
+    {
+      "id": "peace",
+      "number": 20,
+      "title": "Peace",
+      "primaryPassage": "John 14:27",
+      "secondaryPassages": [
+        "Philippians 4:6-7",
+        "Isaiah 26:3"
+      ],
+      "icebreaker": "What usually steals your peace - traffic, money worries, the news, family conflict?",
+      "questions": [
+        "How is the peace Jesus gives different from the peace the world offers?",
+        "What does Paul link peace to in Philippians 4?",
+        "What is currently robbing you of peace, and why?",
+        "How does keeping our mind \"steadfast\" on God bring peace, practically?",
+        "Who in your life needs you to be a peacemaker this week?"
+      ]
+    },
+    {
+      "id": "obedience",
+      "number": 21,
+      "title": "Obedience",
+      "primaryPassage": "John 14:15",
+      "secondaryPassages": [
+        "1 Samuel 15:22",
+        "James 1:22"
+      ],
+      "icebreaker": "Growing up, was there a rule you only understood the reason for later in life?",
+      "questions": [
+        "What does Jesus say is the connection between love and obedience?",
+        "Why does God value obedience even above religious sacrifice?",
+        "Where do you know what God wants but are hesitant to do it?",
+        "What's the difference between hearing the Word and doing it?",
+        "What's one thing God has clearly asked of you that you could obey this week?"
+      ]
+    },
+    {
+      "id": "worship",
+      "number": 22,
+      "title": "Worship",
+      "primaryPassage": "John 4:23-24",
+      "secondaryPassages": [
+        "Psalm 95:1-7",
+        "Romans 12:1"
+      ],
+      "icebreaker": "What song - church or otherwise - always moves you when you hear it?",
+      "questions": [
+        "What does it mean to worship God \"in spirit and in truth\"?",
+        "How is worship more than singing on a Sunday?",
+        "What does Romans 12:1 mean by offering your body as a \"living sacrifice\"?",
+        "Where in your everyday life could worship show up - at work, in chores, in relationships?",
+        "What's one thing you're genuinely thankful for that you could turn into worship this week?"
+      ]
+    },
+    {
+      "id": "overcoming-temptation",
+      "number": 23,
+      "title": "Overcoming Temptation",
+      "primaryPassage": "1 Corinthians 10:13",
+      "secondaryPassages": [
+        "James 1:12-15",
+        "Matthew 26:41"
+      ],
+      "icebreaker": "What's a food or habit you find almost impossible to resist?",
+      "questions": [
+        "What promise does Paul give about temptation in 1 Corinthians 10:13?",
+        "How does James describe the process from temptation to sin?",
+        "What specific temptation do you find yourself facing again and again?",
+        "What \"way out\" has God provided that you haven't been using?",
+        "Who could you ask to keep you accountable in this area?"
+      ]
+    },
+    {
+      "id": "reconciliation",
+      "number": 24,
+      "title": "Reconciliation",
+      "primaryPassage": "2 Corinthians 5:18-19",
+      "secondaryPassages": [
+        "Matthew 5:23-24",
+        "Ephesians 2:14-16"
+      ],
+      "icebreaker": "What's a story - yours or one you know - of two people or groups who found a way back to each other after conflict?",
+      "questions": [
+        "What \"ministry of reconciliation\" has God given to those who follow Him?",
+        "Why does Jesus say to sort out conflict with others before bringing an offering to God?",
+        "In our South African story, why is reconciliation such an important part of following Jesus?",
+        "Is there a relationship - personal, family, or community - where you need to pursue reconciliation?",
+        "What's one step you could take this week toward peace with someone?"
+      ]
+    },
+    {
+      "id": "contentment",
+      "number": 25,
+      "title": "Contentment",
+      "primaryPassage": "Philippians 4:11-13",
+      "secondaryPassages": [
+        "1 Timothy 6:6-8",
+        "Hebrews 13:5"
+      ],
+      "icebreaker": "What's something you once thought would finally make you happy - and did it?",
+      "questions": [
+        "What did Paul learn \"the secret of\" being content?",
+        "How does contentment differ from giving up on dreams or hard work?",
+        "Where does comparison - social media, neighbours, family - steal your contentment?",
+        "What has God provided that you might be overlooking right now?",
+        "What's one thing you could choose to be grateful for this week instead of chasing more?"
+      ]
+    },
+    {
+      "id": "perseverance",
+      "number": 26,
+      "title": "Perseverance",
+      "primaryPassage": "James 1:2-4",
+      "secondaryPassages": [
+        "Galatians 6:9",
+        "Hebrews 12:1-2"
+      ],
+      "icebreaker": "What's the hardest thing you've ever finished - a race, a course, a season of life?",
+      "questions": [
+        "Why does James say we can \"consider it pure joy\" when we face trials?",
+        "What does perseverance produce, according to this passage?",
+        "Where are you tempted to give up right now - a relationship, a goal, your faith?",
+        "How does \"fixing our eyes on Jesus\" help us keep going?",
+        "Who could encourage you to keep going this week, and who could you encourage?"
+      ]
+    },
+    {
+      "id": "wisdom",
+      "number": 27,
+      "title": "Wisdom",
+      "primaryPassage": "James 1:5",
+      "secondaryPassages": [
+        "Proverbs 9:10",
+        "Proverbs 3:13-18"
+      ],
+      "icebreaker": "What's the best piece of advice an older family member ever gave you?",
+      "questions": [
+        "What does James promise about asking God for wisdom?",
+        "Why is \"the fear of the Lord\" described as the beginning of wisdom?",
+        "What decision are you facing right now that needs godly wisdom?",
+        "Where do you usually turn for advice - and is that the wisest source?",
+        "Who could you ask for godly counsel this week?"
+      ]
+    },
+    {
+      "id": "sharing-our-faith",
+      "number": 28,
+      "title": "Sharing Our Faith (Evangelism)",
+      "primaryPassage": "1 Peter 3:15",
+      "secondaryPassages": [
+        "Romans 10:14-15",
+        "Colossians 4:5-6"
+      ],
+      "icebreaker": "Who first told you about Jesus, and what do you remember about that?",
+      "questions": [
+        "What does Peter say should be our posture when we talk about our faith - ready, but how?",
+        "Why does Paul say people need someone to \"tell them\" about Jesus?",
+        "What makes you nervous about sharing your faith with others?",
+        "Who is someone in your life who doesn't yet know Jesus?",
+        "What's one natural, low-pressure way you could talk about your faith this week?"
+      ]
+    }
+  ],
+  "globalPrompts": {
+    "together": "Have tea, coffee or water together — build genuine relationship.",
+    "askHighsLows": "Ask about the highs and lows of the week since you were last together.",
+    "readTheBible": [
+      "What does this tell us about God?",
+      "What does it tell us about ourselves?",
+      "What stands out for you?",
+      "What is God saying to us?"
+    ],
+    "liveIt": "What will we do differently this week because of what we've read/heard?",
+    "pray": "Pray for each other.",
+    "emptyChair": "Who are we praying for? Who can we invite? Who can we intentionally encourage?"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Come to the Table - Leader Guide",
+  "short_name": "Come to the Table",
+  "description": "Leader facilitation companion for Table Groups within The Salvation Army Central Division (SAT).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#D3202A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/CometotheTable_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/RedshieldSM.png",
+      "sizes": "120x144",
+      "type": "image/png"
+    }
+  ]
+}

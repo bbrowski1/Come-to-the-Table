@@ -1,0 +1,6 @@
+{
+  "name": "Come to the Table - Leader Guide",
+  "description": "A facilitator guide for Table Group leaders within The Salvation Army Central Division (SAT), featuring discipleship topics, Scripture search, interactive session runner, and private notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 144" width="120" height="144">
+  <defs>
+    <filter id="shield-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#000" flood-opacity="0.2" />
+    </filter>
+  </defs>
+  <!-- Outer Shield Path -->
+  <path d="M 60,6
+           C 49,8 37,13 22,7
+           C 14,4 8,12 8,24
+           L 8,78
+           C 8,102 33,124 60,138
+           C 87,124 112,102 112,78
+           L 112,24
+           C 112,12 106,4 98,7
+           C 83,13 71,8 60,6 Z"
+        fill="#D3202A"
+        stroke="#FFFFFF"
+        stroke-width="3"
+        stroke-linejoin="round"
+        filter="url(#shield-shadow)" />
+
+  <!-- Inner White Piping Contour -->
+  <path d="M 60,11
+           C 50,13 39,18 25,12
+           C 18,10 13,16 13,26
+           L 13,77
+           C 13,97 36,117 60,130
+           C 84,117 107,97 107,77
+           L 107,26
+           C 107,16 102,10 95,12
+           C 81,18 70,13 60,11 Z"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="1.4"
+        opacity="0.95" />
+
+  <!-- Shield Typography -->
+  <g fill="#FFFFFF" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <!-- THE -->
+    <text x="60" y="37" font-size="14" font-weight="bold" letter-spacing="1.5">THE</text>
+    
+    <!-- SALVATION -->
+    <text x="60" y="67" font-size="14.5" font-weight="900" letter-spacing="0.6" transform="scale(1, 1.05)">SALVATION</text>
+    
+    <!-- Underline curve -->
+    <path d="M 20,74 Q 60,78 100,74" stroke="#FFFFFF" stroke-width="2.2" fill="none" stroke-linecap="round" />
+    
+    <!-- ARMY -->
+    <text x="60" y="98" font-size="18" font-weight="900" letter-spacing="1.2">ARMY</text>
+  </g>
+</svg>
